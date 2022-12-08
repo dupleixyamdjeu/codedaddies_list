@@ -8,7 +8,7 @@ bs4==0.0.1
 camera-calibration==1.14.0
 camera-calibration-parsers==1.11.13
 catkin==0.7.20
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 controller-manager==0.17.0
